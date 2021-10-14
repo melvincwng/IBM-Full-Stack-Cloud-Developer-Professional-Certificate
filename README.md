@@ -8,7 +8,8 @@ I plan to go through the content in this course slowly, as I have many other com
 	
 ## Skills taught & learnt 👨‍💻
 	1. Cloud computing fundamentals
-	2. To add on -> once more courses have been done.
+	2. Web development fundamentals (HTML, CSS, JS)
+	3. To add on -> once more courses have been done.
 	
 ## Useful links / References 📚
 	1. https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
